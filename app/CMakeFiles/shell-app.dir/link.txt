@@ -1,0 +1,1 @@
+/usr/bin/c++ -std=c++14  -Wall -Wextra -Wpedantic -g -g  -rdynamic CMakeFiles/shell-app.dir/main.cpp.o  -o shell-app 

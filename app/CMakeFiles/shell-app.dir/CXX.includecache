@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kavya/808X/Week2/Workspace/Accelerated_C++_4_5/app/main.cpp
+iostream
+-
+vector
+-
+string
+-
+algorithm
+-
+
